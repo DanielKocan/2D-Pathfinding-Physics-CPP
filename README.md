@@ -1,3 +1,5 @@
+![](PhysicsGif.gif)
+
 # Pathfinding, Physics & 2D Gameplay - C++
 
 A study project built over 8 weeks where I implemented A* pathfinding, a triangulated navigation mesh, and a 2D physics engine from scratch in C++, then combined them into a playable game.
@@ -65,3 +67,5 @@ More details about this project, including gifs and explanation of the design de
 https://danielkocan.github.io/projects/2-pathfinding-and-collisions
 
 ---
+
+![](CustomCollisionAndShootingGif.gif)
